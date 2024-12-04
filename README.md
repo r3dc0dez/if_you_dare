@@ -19,11 +19,12 @@ This project is covered under a **custom license**. Please refer to the `LICENSE
 ---
 
 ✨ Stay tuned for updates! ✨
+
 ---
 > **UPDATES: 04/12/2024**
 > - A minesweeper game has been made
 > - A hangman game has been made
 > - Math quiz has been made
 > - Pacman is underdevelopment
-More game are there to come.
+<p>More game are there to come.</p>
 ---
