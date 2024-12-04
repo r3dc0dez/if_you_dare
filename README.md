@@ -1,5 +1,15 @@
 # If You Dare! 
 
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/r3dc0dez/if_you_dare)  
+  ![GitHub stars](https://img.shields.io/github/stars/r3dc0dez/if_you_dare?style=social)  
+  ![GitHub forks](https://img.shields.io/github/forks/r3dc0dez/if_you_dare?style=social)  
+
+</div>
+
+Created by [r3dc0dez](https://github.com/r3dc0dez)
+
 > **Status:** 🛠️ This project is currently under development.  
 > Stay tuned! Updates will be available in the coming days. 🎉
 
