@@ -27,4 +27,5 @@ This project is covered under a **custom license**. Please refer to the `LICENSE
 > - Math quiz has been made
 > - Pacman is underdevelopment
 <p>More game are there to come.</p>
+
 ---
