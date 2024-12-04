@@ -1,0 +1,8 @@
+To play the game, you must first unzip the `.rar` folder using WinRAR.  
+
+You may notice that the folder is password-protected.  
+
+**The password is:**  
+`I_ACCEPT_WARNING_&_TERMS__I_ACCEPT_1234`  
+
+By entering this password, you confirm that you have read and understood the warning and terms of service. This ensures that you extract and play this game at your own risk. The owner of the game is not responsible for any issues or damages that may occur.  
